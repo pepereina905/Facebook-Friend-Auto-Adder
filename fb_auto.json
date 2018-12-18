@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fb-auto-adder",
+  "private_key_id": "3360210cd25dc129fa0b6210f92fa7d76e39780f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCMqO7a6+s+QFrv\n81GX2vG1IUGWTqH5JCdBfp3u/COAAZK5/PRWSgDEZXRjqywo6T9QaZVczo+YWBDz\n259MgBvq7PmR5JhZ5UpVZR7hvtL0CkDonyz3Li1r7jM3loyhA3JZG2y8/UDjQULU\nxAj6dLRmsyX3i83qUo8sa9N+xgYiLDQ0yKE3z/nQaVZ6mDRa3kGZiBdSfY66LoyN\nLmROsEK8OIscVGwbE6gfmWg+KKoBUgTaUG8k0YsjlFPWOj4EpUoBm0Lj2K8StNY8\nABF6JQtPT2YTz4hdXOEFNpbylSBOxpaL+tH70DkBRWFxuiXfDtjzCFzctJBK8W4y\nuTBE9j/fAgMBAAECggEAC11OxxNOk14BuudOzVUcOEUylmFOBuIb5dfEDN4EREBc\nSXidiSc7fqKvz6mxzLBjtCyDq9bolSdwXzN8YGLtXoK8+0Ob5491/QZJg3W2d48o\nhWLu8B2j/9dj/fbE7/FmWLq1g2N2zaWlL6mTDCFHvhB1XdXG0krPVIh1swVu023e\nM3LotKPeX+XNDQuIXJ3gpAvbTI2dOskkaeoPeVeXp0qu77pLgapbLN4GGnhD5x+6\nhuYTcvkBmNFtmyK6VfqsfaN+xYsBEidy0xaxOKfJpP0hp/YNw4SWpwIYY30v59bn\n3EjrAOOuBM2xQhQlf5Js/QMd5QVEklCzOw7MWgifoQKBgQDAN07ssL/ql6pmSjWm\nNmdmq8a84/3eo9N0OnUoo5NslG75eNgfxIDia5n1miQJuuDrw7jl9jkaLJI1uqet\nyCh06GmKARGxdSEGr7vgOJU5WWVkh+oU8vNhNaUu03+QJKKojP8LaVTipVaSid+q\nApLAZWQKbHtnxL2IvbVpD5bPLwKBgQC7VfIt/5C2IObskgTKLsyQFypAKLzPQIuT\n8eixCWMV7m5TfgFKdFyt22Q0lkUBxfOzk5bj+exL8G6KYPu+qf6GqeYinrcBnufv\nuKw4ou7nuk/88vBXovYup6UpYu+wHvsv7sw8c+Skg368We8Zrl1qoEyHCKezTTx5\nzIW3aC/uUQKBgDv7RmrAATOQnoELGVDD22KDqiHZt6gZUWwMrfC/ksqoSzUYS8Em\nDd4aG9Izhplusq9/xRwlyM3tKLcRhy/IrS9GM2D4UnAhD+xJPISMw6xAxE4px5c/\n9UjZd7F0GHN/qy6TySbjeLS9SZWy5pPj962INj62eY/5KfgY0xp03efLAoGBALhB\n1K5BjEhXHErbZDKozTN8VWY9q1f+GEsvyLs4jGjp10Hv0b01rmKiQ3ElzEHuPcEH\nDYa2LyCSH2ej9HiYI2y4d07d5QqHDYHPljUurOTnb/1Pxe2sr487/UszsKT+E/oV\nWnSrWNwnKeSAYJhV1DQn7p1yed/1u+HgtDStGVfBAoGABEh/q1E12WrBe6CRTBC+\nTkBpomqPQvokLrRJGyHGTTz9cCyTkA1Rm/rxsiAEpO0CkXE5WWmimTxlSxnnuMsW\nILcY0KhVjfpKUF3LIBGZ/eXwWuTDH2WBkPnx186cS4XzrJA0X0/UBU6z8/HTc7w3\nWDbkkvBCWgvXhGLr780zqr0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "fb-auto-adder@fb-auto-adder.iam.gserviceaccount.com",
+  "client_id": "108985130272732131954",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fb-auto-adder%40fb-auto-adder.iam.gserviceaccount.com"
+}
