@@ -8,7 +8,7 @@ This code will add about 100 people a day without you doing any manual work (onc
 
 I learned how to scrape, automate user actions and integrate external apis through this repo. I hope it is helpful.
 
-**_ The code could be substantially improved but I am working on other projects at this time. Specifically, putting the code into folders and making it easier to understand would be the most helpful_**
+**The code could be substantially improved but I am working on other projects at this time. Specifically, putting the code into folders and making it easier to understand would be the most helpful**
 
 I welcome all pull requests
 
